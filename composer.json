@@ -1,0 +1,23 @@
+{
+  "name": "panda/TZ",
+  "description": "mvc task",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Lutenko",
+      "email": "lamprologus.ua@gmail.com"
+    }
+  ],
+  "require-dev": {
+    "usmanhalalit/strana": "1.*@dev"
+  },
+  "require": {
+    "usmanhalalit/strana": "1.*@dev"
+  },
+  "autoload": {
+    "psr-4": {
+      "Core\\": "Core/",
+      "App\\": "App/"
+    }
+  }
+}

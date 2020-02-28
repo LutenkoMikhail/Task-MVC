@@ -1,0 +1,5 @@
+/.idea
+/vendor
+/public/assets/resources/images/posts
+.gitconfig
+composer.phar
